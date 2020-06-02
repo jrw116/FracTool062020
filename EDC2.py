@@ -1,5 +1,5 @@
 """
-Created on Tuesday April 21 2020
+Created on Tuesday June 2nd 2020
 
 Authors: Jack Wheaton, Johnson Lee
 """
@@ -8,7 +8,7 @@ from abaqus import *
 from abaqusConstants import *
 from axisplanedel import axisplanedel
 from plycomp import plycomp
-from fibreMat import fibremat
+from fibremat import fibremat
 from plot import plot
 from plycomptet import plycomptet
 from plycomphextet import plycomphextet
