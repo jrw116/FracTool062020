@@ -6,13 +6,13 @@ Authors: Jack Wheaton, Johnson Lee
 
 from abaqus import *
 from abaqusConstants import *
-from AxisPlaneDel import axisplanedel
-from Plycomp import plycomp
-from FibreMat import fibremat
-from Plot import plot
-from Plycomptet import plycomptet
-from Plycomphextet import plycomphextet
-from Plycomp import plycomp
+from axisplanedel import axisplanedel
+from plycomp import plycomp
+from fibreMat import fibremat
+from plot import plot
+from plycomptet import plycomptet
+from plycomphextet import plycomphextet
+from plycomp import plycomp
 import section
 import regionToolset
 import displayGroupMdbToolset as dgm
