@@ -21,3 +21,5 @@ This file is responsible for creating the user interface in ABAQUS CAE
 
 3. plugin3_plugin.py -
 This file is responsible for creating the plugin button and its logo within the ABAQUS CAE menu
+
+An instructional video for the use of this tool is found at https://youtu.be/28rQcXDkIVA
