@@ -1,3 +1,5 @@
+DISCLAIMER: FracTool is in development and therefore there is no guarantee that the correct results will be produced. No resposibility is taken for errors that may occur as a result of the use of FracTool.
+
 Plug-in tool within ABAQUS CAE to perform energy and stength calculations along any given desired tensile fracture plane
 
 There are three main files within the plugin:
